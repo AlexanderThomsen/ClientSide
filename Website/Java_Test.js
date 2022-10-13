@@ -1,0 +1,1 @@
+const person = {Beskrivelse: document.getElementById("Beskrivelse"), Navn: document.getElementById(Navn), Link: document.getElementById("Link")};
